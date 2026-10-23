@@ -2,7 +2,6 @@ mod ui;
 
 use std::io;
 
-// test merge conflicts
 use crossterm::{
     event::{self, Event, KeyCode},
     execute,
